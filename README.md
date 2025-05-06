@@ -2,7 +2,7 @@
 
 Getting started with an **ESP32-C3 Supermini** device and a TFT display with driver chip **ST7789**.
 
-This is the accompanying repository for my article "**Getting Started with an ESP32-C3 Supermini device connected to an ST7789 TFT display**": .
+This is the accompanying repository for my article "**Getting Started with an ESP32-C3 Supermini device connected to an ST7789 TFT display**": https://medium.com/@androidcrypto/getting-started-with-an-esp32-c3-supermini-device-connected-to-an-st7789-tft-display-1fd02d828917.
 
 My display is a 2.0 inch large TFT display with 240 x 320 pixels.
 
