@@ -53,9 +53,6 @@ Second: please comment all other "#include..." entries like this, especially the
 #define TFT_DC   10
 #define TFT_RST  9  // Set TFT_RST to -1 if display RESET is connected to ESP32 board EN
 
-
-    #include <User_Setups/Setup703_C3_SM_ST7789_240x320.h> // ESP32-C3 Supermini, 40 MHz
-
 ## Important note
 
 You need to modify the display library TFT_eSPI to get the code to work. Please find instructions on how to do this in my forked TFT_eSPI repository here on GitHub: [https://github.com/AndroidCrypto/TFT_eSPI](https://github.com/AndroidCrypto/TFT_eSPI).
