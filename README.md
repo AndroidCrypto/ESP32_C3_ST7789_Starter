@@ -1,5 +1,4 @@
 # ESP32-C3 Supermini with ST7789 TFT display Starter
-Getting started with an ESP32-C3 Supermini device and a TFT display ST7789
 
 Getting started with an **ESP32-C3 Supermini** device and a TFT display with driver chip **ST7789**.
 
